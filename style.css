@@ -154,7 +154,7 @@ header {
     height: 100%;
     width: 100%;
     padding-bottom: 5rem;
-    background: url('../assets/image 2.png') lightgray 50% / cover no-repeat;
+    background: url('assets/image 2.png') lightgray 50% / cover no-repeat;
 }
 .social-main{
     width: 100%;
