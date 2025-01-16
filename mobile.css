@@ -1,0 +1,21 @@
+@media screen and (max-width: 600px) {
+    .header-main {
+        padding: 3rem 2rem;
+    }
+
+    .banner-title {
+        font-size: 1.5rem;
+    }
+
+    .shop-btn {
+        padding: 1rem 1rem;
+        font-size: 0.8rem;
+    }
+.header-main>p {
+    font-size: 10px;
+}
+.header-main>h3 {
+    font-size: 0.9rem;
+}
+
+}
