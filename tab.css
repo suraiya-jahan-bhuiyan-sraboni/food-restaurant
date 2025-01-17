@@ -1,16 +1,39 @@
 @media screen and (max-width: 992px) {
     .header-main {
-            padding: 7rem 7rem;
+        padding: 7rem 7rem;
     }
 
-.banner-title {
-    font-size: 2.5rem;
-}
+    .banner-title {
+        font-size: 2.5rem;
+    }
 
-.header-main>p {
-    font-size: 14px;
-}
+    .header-main>p {
+        font-size: 14px;
+    }
+    .about-us{
+        margin-top: 1rem;
+        flex-direction: column;
+    }
 
+    .abt-img {
+        width: 100%;
 
+    }
+
+    .about-main {
+        width: 100%;
+        padding-bottom: 20px;
+        
+    }
+    .fvt-main{
+        padding: 2rem;
+    }
+    .cards{
+        flex-wrap: wrap;
+    }
+    .card{
+        width: 45%;
+        
+    }
 
 }
